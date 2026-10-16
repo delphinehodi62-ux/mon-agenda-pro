@@ -1,5 +1,6 @@
 {
   "name": "Mon Agenda Pro",
+  "id": "/mon-agenda-pro/",
   "short_name": "Agenda Pro",
   "description": "Agenda quotidien LCA, Vinted et LSM",
   "lang": "fr",
