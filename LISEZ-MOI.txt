@@ -1,0 +1,8 @@
+Mon Agenda Pro - version installable
+
+1. Publier ensemble tous les fichiers de ce dossier sur un hébergement HTTPS (par exemple GitHub Pages ou Netlify).
+2. Ouvrir cette adresse dans Chrome Android et choisir Installer l’application / Ajouter à l’écran d’accueil.
+3. Dans la nouvelle application, utiliser Restaurer et sélectionner la sauvegarde JSON de Mon Agenda Pro. Vérifier les données.
+4. Ne pas effacer l’ancienne application ni ses données avant vérification.
+
+Attention : ouvrir index.html depuis un ZIP ou un fichier local ne permet pas l’installation PWA. Le stockage local est propre à chaque adresse; il ne migre pas automatiquement. Faire régulièrement des sauvegardes JSON.
